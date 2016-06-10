@@ -1,0 +1,12 @@
+.DS_Store
+.settings/
+*.properties
+config/
+debug/
+lib/
+*.sublime-project
+*.sublime-workspace
+*.sublime-settings
+*.log
+*.xml
+
